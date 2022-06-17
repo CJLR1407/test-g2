@@ -1,0 +1,11 @@
+
+Librerias para el uso adecuado de escritura de nuestro codigo.
+Clases abstractas
+
+
+
+Decoradores
+Git: GitLab, GitHub, Bitbucket
+Laboratorio: Uso de la API pokeapi para mostrar una lista de pokemones con nombre, numero, habilidad y su imagen
+
+

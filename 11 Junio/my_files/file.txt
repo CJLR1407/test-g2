@@ -1,0 +1,4 @@
+
+Lenguaje multiplataforma: Python
+Está basado en POO
+Basado en diferentes paradigmas de programación
